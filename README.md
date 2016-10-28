@@ -6,7 +6,9 @@ A sample HoloLens app that uses spatial mapping to automatically place holograms
 * Visualizing the spatial mesh
 * Processing the spatial mesh to find planes (e.g. walls, floor, ceiling, etc)
 * Testing the placement of holograms based on the processed planes
-* Occluding holograms based on the real world sptial mesh
+* Occluding holograms based on the real world spatial mesh
+
+![Screenshot](Screenshots/20161026_220340_HoloLens.jpg)
 
 ## Follow Me
 * Twitter: [@ActiveNick](http://twitter.com/ActiveNick)
